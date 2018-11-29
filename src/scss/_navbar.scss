@@ -1,5 +1,28 @@
-body {
+.navbar-nav {
+ 
+    margin-left: auto;
+    font-size: 14px;
 
-	margin: 0px;
+
+}
+
+
+.navbar-expand-lg {
+
+    background-color: #39628c;
+
+
+}
+
+.nav-link {
+
+	color: #fff;
+	transition: color 0.5s ease-out;
+
+}
+
+.nav-link:hover {
+
+	color: #e9e9e9;
 
 }
